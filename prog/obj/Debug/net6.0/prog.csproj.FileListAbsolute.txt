@@ -1,0 +1,15 @@
+/Users/aleksandrrandin/Desktop/Verif_work/prog/bin/Debug/net6.0/prog
+/Users/aleksandrrandin/Desktop/Verif_work/prog/bin/Debug/net6.0/prog.deps.json
+/Users/aleksandrrandin/Desktop/Verif_work/prog/bin/Debug/net6.0/prog.runtimeconfig.json
+/Users/aleksandrrandin/Desktop/Verif_work/prog/bin/Debug/net6.0/prog.dll
+/Users/aleksandrrandin/Desktop/Verif_work/prog/bin/Debug/net6.0/prog.pdb
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.csproj.AssemblyReference.cache
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.AssemblyInfoInputs.cache
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.AssemblyInfo.cs
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.csproj.CoreCompileInputs.cache
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.dll
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/refint/prog.dll
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.pdb
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/prog.genruntimeconfig.cache
+/Users/aleksandrrandin/Desktop/Verif_work/prog/obj/Debug/net6.0/ref/prog.dll
